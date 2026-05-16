@@ -1,0 +1,13 @@
+# Configurações sensíveis
+includes/config.php
+
+# Logs
+logs/
+
+# Cache e temporários
+*.log
+.DS_Store
+__MACOSX
+
+# Vendor (baixar separado)
+vendor/
